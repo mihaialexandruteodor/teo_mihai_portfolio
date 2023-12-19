@@ -51,7 +51,8 @@ linkedin_username: teodor-mihai-5294b01b3
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpeg
-about_content: | With four years of experience in software development, I have a proven track record of delivering
+about_content: |
+With four years of experience in software development, I have a proven track record of delivering
 high-quality software solutions on time and within budget. I am skilled in a wide range of
 programming languages and technologies, including Java, Python, Angular, .Net C#, SQL, and REST
 APIs, and I am constantly learning and keeping up-to-date with the latest trends and advancements in
