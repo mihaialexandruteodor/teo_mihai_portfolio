@@ -62,17 +62,40 @@ content:
         title: Feather Writer
         link: https://github.com/mihaialexandruteodor/FeatherWriter
         link_text: Repo
-        #additional_links:
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Cloud Native Novel Writing Software.
         description: | # this will include new lines to allow paragraphs
           The application  was developed from the desire to create a Cloud Native service with the features of managing and organizing the information and content of a novel, found in software products such as Scrivener, with the benefit of being free, supporting integration with browser plugins. and adhering to Open Source principles that allow code redistribution and modification.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: UniPad
+        link: https://github.com/mihaialexandruteodor/UniPad
+        link_text: Repo
+        quote: >
+          iOS app for taking notes with OCR text recognition.
+        description: | # this will include new lines to allow paragraphs
+          OS app for taking quick notes using the camera and saving them as PDF, along with the OCR recognition of the text detected.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Unibuc Routing App
+        link: https://github.com/mihaialexandruteodor/UniBuc-Routing-App
+        link_text: Repo
+        quote: >
+          Android maps app that helps University of Bucharest students.
+        description: | # this will include new lines to allow paragraphs
+          Android app that uses OpenStreetMaps OSMDroid SDK and Firebase to help University of Bucharest students find all campus buildings within the city.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Ubuntu Regolith Configurator
+        link: https://github.com/mihaialexandruteodor/Ubuntu-Regolith-Configurator
+        link_text: Repo
+        quote: >
+          Script for a quick Ubuntu configuration with apps and i3 window manager.
+        description: | # this will include new lines to allow paragraphs
+          After a fresh install, you can run this script with cURL to not only install the i3 tiling window manager, but to also pick from a list of apps to be automatically installed. 
   - title: Experience
     layout: list
     content:
@@ -89,19 +112,25 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: University of Bucharest
+        sub_title: Master's Degree - Software Engineering
+        caption: 2020 - 2022
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Graduated with a 9.5/10 on my final project.
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-right
+        title: Transylvania University of Brasov
+        sub_title: Bachelor's Degree - Computer Science
+        caption: 2017 - 2020
+        quote: >
+          Graduated with a 10/10 on my final project.
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      I love to write, draw and read in my free time. I am a great lover of cinema (particularly the Korean films of Bong Joon-Ho and Park Chan-Wook), and my favorite film is The Matrix. I love to read Manga and listen to movie scores.
 
 # Footer
 footer_show_references: true
