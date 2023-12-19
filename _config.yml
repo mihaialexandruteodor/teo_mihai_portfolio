@@ -99,19 +99,55 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: Technohub
+        sub_title: Software Developer
+        caption: May 2023 - present
+        link: https://www.technohub.ro/
+        #quote: >
+        #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Skills: HTML5 · Angular · Cascading Style Sheets (CSS) · .NET Framework · Microsoft SQL Server · Xamarin · Microsoft Report Builder
+      - layout: left
+        title: Luxoft
+        sub_title: Frontend Developer
+        caption: July 2022 - May 2023
+        link: https://career.luxoft.com/locations/romania/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Skills: React.js · Cascading Style Sheets (CSS) · JavaScript
+      - layout: left
+        title: Oracle
+        sub_title: Staff Consultant
+        caption: October 2021 - July 2022
+        link: https://www.oracle.com/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Skills: Grafana · InfluxDB · Shell Scripting · Docker · Python · SQL
+      - layout: left
+        title: Fan Courier
+        sub_title: Junior Software Developer
+        caption: Date Range (eg. November 2016 - present)
+        link: https://www.fancourier.ro/en/home/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Skills: Visual Basic · .NET Framework · Microsoft SQL Server
+      - layout: left
+        title: Magic Lane
+        sub_title: Project Support Programmer
+        caption: July 2019 - June 2020
+        link: https://www.magiclane.com/web/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Skills: Java · Kotlin · C++
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: University of Bucharest
         sub_title: Master's Degree - Software Engineering
         caption: 2020 - 2022
@@ -119,7 +155,7 @@ content:
           Graduated with a 9.5/10 on my final project.
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: Transylvania University of Brasov
         sub_title: Bachelor's Degree - Computer Science
         caption: 2017 - 2020
